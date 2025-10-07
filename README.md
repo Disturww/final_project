@@ -1,16 +1,57 @@
-# React + Vite
+Final Project / PopCornPlay
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ketua Tim : Fatimah Az Zahra
+Detail Tim :
 
-Currently, two official plugins are available:
+1.Bunga Aprillia Ariska /5
+- Mengerjakan List Movie
+- Mengerjakan Fitur Bahasa
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2.Muhammad Reisya Adandi/17
+- Mengerjakan Search 
+- Mengerjakan Favorit
 
-## React Compiler
+3.Nidhom Muzaky/22
+- Mengerjakan List Trending
+- Mengerjakan List Now playing
+- Mengerjakan Video Trending
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 4. Nvidiandra Rafi/23
+- Mengerjakan Detail Movie
+- Mengerjakan Navbar & Footer
+- mengerjakan similar & cast (jadi 1 dgn detail movie)
 
-## Expanding the ESLint configuration
+5.Ridho Sabirin/26
+• mengerjakan detail series
+• mengerjakan detail trending
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+6.Fatimah Az Zahra/10
+- mengerjakan list series
+- mengerjakan theme (darkmode & lightmode)
+- menggabungkan/menjahit codingan per component
+- memastikan semua berjalan normal (qs)
+- moderator
+- project manager
+- styling halaman web
+
+list halaman:
+- homepage
+- movies
+- series
+- favorite
+- search
+- detail (movie, series, trending)
+
+list fitur yang dikerjakan:
+- detail movies
+- detail series
+- detail trending
+- tambah favorite (movies)
+- search (khusus search movie saja)
+- theme (darkmode & lightmode)
+- translate (bhs indo & bhs inggris)
+- auto scroll (pada bagian poster film,series,similar)
+- rating movies/film
+- video trending pada awal halaman home
+- trending now
+- now playing
