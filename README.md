@@ -23,6 +23,7 @@ Detail Tim :
 
 5.Ridho Sabirin/26
 • mengerjakan detail series
+
 • mengerjakan detail trending
 
 6.Fatimah Az Zahra/10
