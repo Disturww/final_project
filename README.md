@@ -22,9 +22,8 @@ Detail Tim :
 - mengerjakan similar & cast (jadi 1 dgn detail movie)
 
 5.Ridho Sabirin/26
-• mengerjakan detail series
-
-• mengerjakan detail trending
+- mengerjakan detail series
+- mengerjakan detail trending
 
 6.Fatimah Az Zahra/10
 - mengerjakan list series
