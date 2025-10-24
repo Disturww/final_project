@@ -5,18 +5,18 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import { ThemeProvider } from './context/ThemeContext.jsx'
 import StoreProvider from './store.js'
-import { BahasaProvider } from './context/bahasaContext.jsx'
+
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
   <StoreProvider>
     <BrowserRouter>
-    <BahasaProvider>
+    
     <ThemeProvider>
     <App />
     </ThemeProvider>
-    </BahasaProvider>
+   
     </BrowserRouter>
     </StoreProvider>
 
